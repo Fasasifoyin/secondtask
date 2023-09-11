@@ -8,3 +8,4 @@ This is a readme file for the HNG Second Task
 * [Getting Started](#section-2)
 
 ### <a name="about"></a> About
+A simple REST API capable of CRUD operations on a "person" resource
