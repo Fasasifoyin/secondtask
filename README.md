@@ -4,5 +4,7 @@ This is a readme file for the HNG Second Task
 
 ## Table of Contents
 
-* [About](#section-1)
+* [About](#about)
 * [Getting Started](#section-2)
+
+### <a name="abot"></a> About
