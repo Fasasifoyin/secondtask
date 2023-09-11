@@ -7,4 +7,4 @@ This is a readme file for the HNG Second Task
 * [About](#about)
 * [Getting Started](#section-2)
 
-### <a name="abot"></a> About
+### <a name="about"></a> About
