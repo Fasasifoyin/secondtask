@@ -7,6 +7,7 @@ This is a readme file for the HNG Second Task
 * [About](#about)
 * [Getting Started](#start)
 * [Connect to mongodb](#mongo)
+* [API USAGE](#usage)
 
 ### <a name="about">About</a> 
 A simple REST API capable of CRUD operations on a "person" resource
@@ -23,4 +24,6 @@ A simple REST API capable of CRUD operations on a "person" resource
 - Input the right password in the connection string
 - Start project - **`npm start`**
 
-#### You should get "**App Connected**" message and your server will run on "**localhost://7070**"
+#### You should get "**App Connected**" message and your server will run on "**localhost:7070**"
+
+### <a name="usage">API USAGE</a> 
