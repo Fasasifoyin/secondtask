@@ -19,6 +19,7 @@ A simple REST API capable of CRUD operations on a "person" resource
 - Create a new project on mongodb
 - Copy connection string
 - Create a .env file
-- Create a variable "MONGO_URL" in the .env file and paste in connection string
+- Create a variable "**MONGO_URL**" in the .env file and paste in connection string
 - Input the right password in the connection string
 - Start project - **`npm start`**
+You should "**App Connected**" message and your server will run on "**localhost://7070**"
