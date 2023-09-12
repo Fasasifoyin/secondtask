@@ -30,3 +30,6 @@ A simple REST API capable of CRUD operations on a "person" resource
 The base url for the api usage is `localhost:7070/api`
 
 - CREATE - endpoint for creating a new person `/create`. A key "**name**" with a value which should be in **STRING** should be passed through the request body
+- DELETE - endpoint for deleting a person `/delete/<name>`. The name to be deleted is passed as a parameter(not case sensitive)
+- READ - endpoint to get a specific person `/get/<name>`. The name to find is passed as a parameter(not case sensitive)
+- UPDATE - endpoint to update a person `/update/<name>`. The name to update is passed as a parameter(not case sensitive). A key "**name**" with a value which should be in **STRING** should also be passed through the request body
