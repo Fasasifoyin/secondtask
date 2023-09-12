@@ -27,3 +27,6 @@ A simple REST API capable of CRUD operations on a "person" resource
 #### You should get "**App Connected**" message and your server will run on "**localhost:7070**"
 
 ### <a name="usage">API USAGE</a> 
+The base url for the api usage is `localhost:7070/api`
+
+- CREATE - endpoint for creating a new person `/create`. A key "**name**" with a value which should be in **STRING** should be passed through the request body
