@@ -8,14 +8,14 @@ This is a readme file for the HNG Second Task
 * [Getting Started](#start)
 * [Connect to mongodb](#mongo)
 
-### <a name="about"></a> About
+### <a name="about">About</a> 
 A simple REST API capable of CRUD operations on a "person" resource
 
-### <a name="start"></a> Getting Started
+### <a name="start">Getting Started</a> 
 - Clone the repo: **`git clone https://github.com/Fasasifoyin/secondtask.git`**
 - After cloning, install packages with: **`npm install`** 
 
-### <a name="mongo"></a> Connect to mongodb
+### <a name="mongo">Connect to mongodb</a> 
 - Create a new project on mongodb
 - Copy connection string
 - Create a .env file
