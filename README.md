@@ -22,4 +22,5 @@ A simple REST API capable of CRUD operations on a "person" resource
 - Create a variable "**MONGO_URL**" in the .env file and paste in connection string
 - Input the right password in the connection string
 - Start project - **`npm start`**
-You should "**App Connected**" message and your server will run on "**localhost://7070**"
+
+#### You should get "**App Connected**" message and your server will run on "**localhost://7070**"
