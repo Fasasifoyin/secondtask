@@ -12,3 +12,4 @@ A simple REST API capable of CRUD operations on a "person" resource
 
 ### <a name="start"></a> Getting Started
 - Clone the repo: **git clone https://github.com/Fasasifoyin/secondtask.git**
+- After cloning, install packages with: **npm install** 
