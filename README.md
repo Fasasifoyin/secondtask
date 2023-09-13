@@ -8,6 +8,7 @@ This is a readme file for the HNG Second Task
 * [Getting Started](#start)
 * [Connect to mongodb](#mongo)
 * [API USAGE](#usage)
+* [DOCUMENTATION](#docs)
 
 ### <a name="about">About</a> 
 A simple REST API capable of CRUD operations on a "person" resource
@@ -33,3 +34,6 @@ The base url for the api usage locally is `localhost:7070/api`
 - DELETE - endpoint for deleting a person `/delete/<name>`. The name to be deleted is passed as a parameter(not case sensitive)
 - READ - endpoint to get a specific person `/get/<name>`. The name to find is passed as a parameter(not case sensitive)
 - UPDATE - endpoint to update a person `/update/<name>`. The name to update is passed as a parameter(not case sensitive). A key "**name**" with a value which should be in **STRING** should also be passed through the request body
+
+### <a name="docs">DOCUMENTATION</a> 
+https://documenter.getpostman.com/view/26520494/2s9YC2zDgS#ab2192bc-151d-49c0-9736-faa0ce2e6e1e
